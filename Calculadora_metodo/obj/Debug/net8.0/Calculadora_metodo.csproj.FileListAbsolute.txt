@@ -1,0 +1,15 @@
+c:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\bin\Debug\net8.0\Calculadora_metodo.exe
+C:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\bin\Debug\net8.0\Calculadora_metodo.deps.json
+C:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\bin\Debug\net8.0\Calculadora_metodo.runtimeconfig.json
+c:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\bin\Debug\net8.0\Calculadora_metodo.dll
+c:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\bin\Debug\net8.0\Calculadora_metodo.pdb
+c:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\obj\Debug\net8.0\Calculadora_metodo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\obj\Debug\net8.0\Calculadora_metodo.AssemblyInfoInputs.cache
+c:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\obj\Debug\net8.0\Calculadora_metodo.AssemblyInfo.cs
+c:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\obj\Debug\net8.0\Calculadora_metodo.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\obj\Debug\net8.0\Calculadora_metodo.sourcelink.json
+c:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\obj\Debug\net8.0\Calculadora_metodo.dll
+c:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\obj\Debug\net8.0\refint\Calculadora_metodo.dll
+c:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\obj\Debug\net8.0\Calculadora_metodo.pdb
+C:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\obj\Debug\net8.0\Calculadora_metodo.genruntimeconfig.cache
+C:\Users\Alunos\Documents\euvinni\Calculadora_metodo\Calculadora_metodo\obj\Debug\net8.0\ref\Calculadora_metodo.dll
